@@ -27,3 +27,18 @@ table {
 .mat-header-cell, .mat-cell {
   text-align: left;
 }
+
+.mat-header-row {
+  background-color: #1976d2; /* Cor de fundo */
+  color: #1976d2;   /* Cor do texto */
+}
+
+.mat-header-cell {
+  font-weight: bold;  
+}
+
+.p-column-small {
+  width: 100px;
+  background-color: #1976d2;  
+  font-weight: bold;          
+}
